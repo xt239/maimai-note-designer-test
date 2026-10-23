@@ -1,0 +1,16 @@
+{
+  "_说明": "本目录是一组可直接 `python xxx.py` 运行的脚本（非包），因此使用同目录导入是有意为之；同时 numpy 数值代码的严格 Any 报告无实际收益。",
+  "include": ["."],
+  "typeCheckingMode": "basic",
+  "reportImplicitRelativeImport": "none",
+  "reportMissingTypeStubs": "none",
+  "reportUnknownMemberType": "none",
+  "reportAny": "none",
+  "reportUnannotatedClassAttribute": "none",
+  "reportMissingParameterType": "none",
+  "reportUnknownParameterType": "none",
+  "reportUnknownVariableType": "none",
+  "reportUnknownArgumentType": "none",
+  "reportUnknownMemberType": "none",
+  "pythonVersion": "3.14"
+}
